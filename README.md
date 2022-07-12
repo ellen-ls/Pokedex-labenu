@@ -1,4 +1,4 @@
-# Projeto Pokedex
+# :star2: Projeto Pokedex feito com REACTJS :star2:
 
 Projeto feito durante o Bootcamp da Labenu. Esse projeto foi feito em grupo, criado do zero usando PokeAPI :yellow_heart:
 
